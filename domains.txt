@@ -1,3 +1,8 @@
+--------------------------------------------
+List of domains obtained by passive recon,
+Cloudflare nameservers and TLS certificates.
+--------------------------------------------
+
 2018homemovie.gq
 24vul-slot.com
 58pic2017.org
